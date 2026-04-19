@@ -130,4 +130,4 @@ client.on("interactionCreate", async interaction => {
 });
 
 // =====================
-client.login(process.env.DISCORD_TOKEN);
+client.login("MTQ5NTIzMDM5MTc4MTY5MTQyMg.GIgI0N.GLS35wsx3T0lrdUf9pFpoL6ZEuoZo7wKTTvYhI");
